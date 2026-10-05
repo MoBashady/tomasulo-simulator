@@ -158,3 +158,30 @@ tomasulo-simulator/
 ├── Tomasulo Algorithm Simulation.cpp
 ├── .gitignore
 └── README.md
+
+```
+
+## Technologies
+- C++
+- Qt
+- Qt Creator
+- C++ Standard Library
+
+## Running the Qt Version
+1. Open QT_sim/tomasulo_qt.pro in Qt Creator.
+2. Configure a compatible Qt kit.
+3. Build the project.
+4. Run the application.
+5. Select a built-in test case or modify the simulator configuration.
+6. Click Run Simulation.
+   
+## What I Learned
+This project helped me gain practical experience with:
+- dynamic instruction scheduling
+- out-of-order execution
+- dependency tracking
+- reorder buffers
+- speculative execution
+- branch recovery
+- processor performance metrics
+- C++ GUI development with Qt
